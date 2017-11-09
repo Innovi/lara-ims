@@ -1,4 +1,4 @@
-<h1 align="center">Laravel IMS</h1>
+<h1 align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg">IMS</h1>
 
 ## About Laravel IMS
 
